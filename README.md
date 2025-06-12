@@ -1,4 +1,4 @@
-# TASK-7 # 📊 Basic Sales Summary using SQLite and Python
+# TASK-7 Basic Sales Summary using SQLite and Python
 
 This project demonstrates how to use SQL within Python to analyze a small sales dataset using **SQLite**, **pandas**, and **matplotlib**. It covers basic SQL querying, data summarization, and visualization.
 
